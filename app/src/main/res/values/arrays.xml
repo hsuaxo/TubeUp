@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="youtube_options">
+        <item>PLAY ON DEVICE</item>
+        <item>PLAY IN YOUTUBE APP</item>
+        <item>ADD TO FAVORITES</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TubeUp</string>
+    <string name="youtube">YouTube</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_content">SEARCH</string>
+    <string name="search_youtube">Search YouTube</string>
+    <string name="search">Search</string>
+    <string name="saved_videos">SAVED CONTENT</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="devices">DEVICES</string>
+</resources>
